@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Kveesh
-- 👀 I’m interested in ... generative AI, image classification w/ machine learning, game and website dev w/ PHP and HTML/CSS
-- 💵 Projects I've made ... brain tumor detection app w/ Gradio (tumorai.xyz), 2D Unity platformer
-- 🌱 I’m currently learning ... C and PHP!
-- 💞️ I’m looking to collaborate on ... generative AI research, 2D Unity projects
-- 📫 How to reach me ... discord -> username: kveesh
+
